@@ -1,4 +1,3 @@
-import { APIKEY } from '../env'
 class gt{
     constructor(APIKEY){
         this.APIKEY = APIKEY
@@ -24,4 +23,7 @@ class gt{
         })
         return request
     }
+}
+module.exports = {
+    gt:gt,
 }
