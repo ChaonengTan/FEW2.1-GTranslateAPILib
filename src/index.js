@@ -30,7 +30,7 @@ class gt{
     }
     previous(){ if(this.prevCall) return this.prevCall }
     setKey(APIKEY){
-        this.options.headers['x-rapidapi-key'] = APIKEY
+        this._APIKEY = APIKEY
     }
 }
 module.exports = {
