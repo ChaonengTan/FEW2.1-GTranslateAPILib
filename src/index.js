@@ -29,7 +29,7 @@ class gt{
             })
     }
     previous(){ if(this.prevCall) return this.prevCall }
-    set setKey(APIKEY){
+    setKey(APIKEY){
         this.options.headers['x-rapidapi-key'] = APIKEY
     }
 }
