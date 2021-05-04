@@ -1,3 +1,4 @@
+![npm (scoped)](https://img.shields.io/npm/v/@chaonengtan/few2.1-gtranslateapilib) ![GitHub repo size](https://img.shields.io/github/repo-size/ChaonengTan/FEW2.1-GTranslateAPILib) ![GitHub issues](https://img.shields.io/github/issues/ChaonengTan/FEW2.1-GTranslateAPILib) 
 API Source: https://english.api.rakuten.net/googlecloud/api/google-translate1
 
 About:
